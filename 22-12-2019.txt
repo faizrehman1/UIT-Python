@@ -1,0 +1,4 @@
+Tuples.....
+indexing return element
+slicing return list or tuples
+tuple never update
